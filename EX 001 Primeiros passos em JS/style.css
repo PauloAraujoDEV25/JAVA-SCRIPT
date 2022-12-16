@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(119, 139, 210);
+    color: antiquewhite;
+    font-size: bold 20pt Arial;
+}
+h1{
+    color: burlywood;
+}
